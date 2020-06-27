@@ -1,0 +1,35 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #FFAEC9;
+	padding:10px 0;
+	
+
+}
+
+
+.box{
+
+min-height: 90px;
+background-color: #99D9EA;
+border: 8px solid yellow;
+margin-bottom: 10px;
+
+}
+
+.red{
+
+	background-color: red;
+	color:white;
+	min-height: 110px;
+
+	 
+}
+
+.bo{
+
+	border: 8px solid yellow;
+}
+
+.bg{
+
+	background-color: #22B14C;
+}
